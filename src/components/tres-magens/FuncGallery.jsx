@@ -1,7 +1,6 @@
 import React from "react"
 import './Gallery.css'
-import './imagens-da-g/Images'
-import Images from "./imagens-da-g/Images"
+
 
 export default function FuncGallery({gallery}) {
 
@@ -12,7 +11,7 @@ export default function FuncGallery({gallery}) {
         <h1 className="g-titulo">Lançamentos !!!</h1>
       </div>
       <div>
-        <img className="img-g" src={Images.image} />
+        <img className="img-g" src={gallery.imgaem} />
       </div>
       <div className="div-sm">
         <button id={gallery.id} className="s-m">Saiba Mais</button>

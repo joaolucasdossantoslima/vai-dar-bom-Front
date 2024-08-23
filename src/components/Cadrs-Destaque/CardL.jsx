@@ -9,7 +9,7 @@ export default function CardL({complementos}) {
             </div>
             <div className="Card-Lanç">
                 <div className="Lanç-img-D">
-                    <img className="Lanç-img" src={complementos.image} alt="imagecard" />
+                    <img className="Lanç-img" src={complementos.imgaem} alt="imagecard" />
                 </div>
                 <div className="Lanç-texto">
                     <h2 className="Lanç-nome">{complementos.nome}</h2>
