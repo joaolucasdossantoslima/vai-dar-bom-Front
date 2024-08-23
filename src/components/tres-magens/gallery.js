@@ -1,6 +1,6 @@
 export default [
   {
-    image: "src/components/tres-magens/imagens-da-g/g-img-2.jpg",
+    image: "vai dar bom/src/components/tres-magens/imagens-da-g/g-img-1.jpg",
     id: "b1",
     nome:"Sapato Novo 1",
     qualidades:"Cor Cinza",
@@ -8,7 +8,7 @@ export default [
   },
 
   {
-    image: "src/components/tres-magens/imagens-da-g/g-img-1.jpg",
+    image: "vai dar bom/src/components/tres-magens/imagens-da-g/g-img-2.jpg",
     id: "b2",
     nome:"Sapato Novo 2",
     qualidades:"Cor Preto",
@@ -16,7 +16,7 @@ export default [
 },
 
   {
-    image: "src/components/tres-magens/imagens-da-g/g-img-3.jpg",
+    image: "vai dar bom/src/components/tres-magens/imagens-da-g/g-img-3.jpg",
     id: "b3",
     nome:"Sapato Novo 3",
     qualidades:"Cor Branco",
